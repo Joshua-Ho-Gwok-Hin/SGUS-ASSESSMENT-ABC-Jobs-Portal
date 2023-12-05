@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.aaa.service","c":"SearchService","l":"listAll()"},{"p":"com.aaa.service","c":"SearchService","l":"search(String)","url":"search(java.lang.String)"},{"p":"com.aaa.service","c":"SearchService","l":"searchRepository"},{"p":"com.aaa.service","c":"SearchService","l":"SearchService()","url":"%3Cinit%3E()"}]
